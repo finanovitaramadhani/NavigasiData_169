@@ -8,4 +8,8 @@
     <string name="alamat">Alamat</string>
     <string name="tampil">Tampil</string>
     <string name="home">Home</string>
+    <string name="form_pendaftaran">Form Pendaftaran</string>
+    <string name="data_siswa">Data Siswa</string>
+
+
 </resources>
